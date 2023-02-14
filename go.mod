@@ -1,4 +1,4 @@
-module github.com/hashicorp/packer-plugin-openstack
+module github.com/zhenggu/wbx3ocp
 
 go 1.18
 

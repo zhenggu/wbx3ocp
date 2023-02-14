@@ -6,8 +6,8 @@ import (
 
 	"github.com/hashicorp/packer-plugin-sdk/plugin"
 
-	"github.com/hashicorp/packer-plugin-openstack/builder/openstack"
-	"github.com/hashicorp/packer-plugin-openstack/version"
+	"github.com/zhenggu/wbx3ocp/builder/openstack"
+	"github.com/zhenggu/wbx3ocp/version"
 )
 
 func main() {
